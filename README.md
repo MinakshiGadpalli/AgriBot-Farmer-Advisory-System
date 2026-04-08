@@ -19,8 +19,6 @@ AI Engine: Google Gemini 2.5 Flash API
 
 Version Control: Git & GitHub
 
-📂 Project Structure
-Plaintext
 Farmer_AI_Project/
 ├── main.py                # Main Application Logic
 ├── knowledge_base.txt      # Local Agricultural Data
